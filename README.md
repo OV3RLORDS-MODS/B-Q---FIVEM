@@ -1,6 +1,4 @@
-# B&Q---FIVEM
-
-B&Q For GTA. 
+# B&Q For GTA. 
 
 GTA Singleplayer mod, also compatible with FiveM if you ever decide to use it there. For privacy and legal reasons, we recommend not displaying any brand logos online. However, we offer customization services on discord for a small donation. If you encounter any issues, feel free to reach out to us on Discord. 
 
