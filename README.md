@@ -6,8 +6,6 @@ change it for small donation. Any issues, join the discord.
 
 - Install to GTA Singleplayer?
 
-
-
 -Install To FiveM? 
 
 Simply drag and drop on to your resources folder. 
